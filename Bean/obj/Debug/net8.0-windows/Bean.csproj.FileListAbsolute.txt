@@ -1,0 +1,17 @@
+C:\Users\Lucas\source\repos\Bean\Bean\bin\Debug\net8.0-windows\Bean.exe
+C:\Users\Lucas\source\repos\Bean\Bean\bin\Debug\net8.0-windows\Bean.deps.json
+C:\Users\Lucas\source\repos\Bean\Bean\bin\Debug\net8.0-windows\Bean.runtimeconfig.json
+C:\Users\Lucas\source\repos\Bean\Bean\bin\Debug\net8.0-windows\Bean.dll
+C:\Users\Lucas\source\repos\Bean\Bean\bin\Debug\net8.0-windows\Bean.pdb
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\Bean.GameForm.resources
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\Bean.GameResources.resources
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\Bean.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\Bean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\Bean.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\Bean.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\Bean.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\Bean.dll
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\refint\Bean.dll
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\Bean.pdb
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\Bean.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\Bean\Bean\obj\Debug\net8.0-windows\ref\Bean.dll
